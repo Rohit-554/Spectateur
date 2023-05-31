@@ -5,6 +5,17 @@
 
 
 
+<h3> Tech stacks </h3>
+
+- Kotlin
+- Xml
+- Material UI
+- Jetpack library
+  -  Dependency Injection
+- Retrofit (for apicalls)
+- Mvvm Artitecture
+- LiveData
+
 
 <h4>White + Dark Theme</h4>    
 Dark mode is not completed fully <br>
